@@ -1,0 +1,33 @@
+VE11DFF,Ford Fiesta,Hatchback, ,red,40000,none,manual,5000.0,2018-10-05,2019-04-13
+SB08BZF,Vauxhall Corsa,Hatchback, ,black,45000,dent on rear bumper,manual,500.0,2013-08-20,2018-09-13
+FB07ASD,Citroen C2,Hatchback, ,blue,36000,dent on front bumper,manual,400.0,2013-02-02,2013-06-30
+BU68EVF,BMW 4-Series,Coupe, ,blue,10000,none,automatic,35000.0,2018-11-15,
+VN06FFX,Volkswagen Transporter,Van, large,blue,82000,has had 2 accidents,manual,6000.0,2019-04-12,
+MB19LSU,Bentley Continental,Saloon, ,Grey,1000,none,automatic,75000.0,2019-04-14,
+SH16GFD,Aston Martin Vulcan,Coupe, ,Green,200,none,automatic,2400000.0,2019-04-14,
+FG68QWS,Aston Martin Vanquish,Coupe, ,red,100,none,automatic,5000000.0,2019-04-14,
+LJ67DCV,Bugatti Chiron,Coupe, ,blue,489,none,automatic,3120000.0,2019-04-14,
+DF15GBE,Bugatti Veyron,Coupe, ,black,2500,none,automatic,2600000.0,2019-04-14,
+AH04RSY,Ferrari Enzo,Coupe, ,black,3200,none,automatic,2099950.0,2019-04-14,
+GR14EAF,McLaren P1,Coupe, ,orange,104,none,automatic,1450000.0,2019-04-14,
+DJ18DSF,McLaren Senna,Coupe, ,black,800,none,automatic,1299995.0,2019-04-14,
+BFDFWSC,Aston Martin DB5,Saloon, ,dark green,10000,none,manual,1250000.0,2019-04-14,
+TS17LAX,Tesla Model X E P100D,SUV, ,black,2992,none,automatic,109995.0,2019-04-14,
+TS17LAS,Tesla Model S P100DL,Saloon, ,black,6404,none,automatic,95990.0,2019-04-14,
+YTV3421,Mercedes-Benz CLK230,Saloon, ,silver,143000,none,automatic,100.0,2019-04-14,
+X514JOV,Volkswagen Golf,Hatchback, ,dark blue,100000,central locking broken,manual,195.0,2019-04-14,
+EW55JVP,Peugeot 206,Hatchback, ,blue,86000,needs new clutch,manual,200.0,2019-04-14,
+TY68GHB,Mercedes-Benz Vito,Van, large,black,2300,none,automatic,149995.0,2019-04-14,
+RE19HGT,Renault Trafic,Van, large,black,25,none,manual,15650.0,2019-04-14,
+SEV3570,VolksWagen Camper Van,Van, large,green,50000,none,manual,59875.0,2019-04-14,
+CI51RON,Citroen Dispatch,Van, small,white,180000,none,manual,500.0,2019-04-14,
+PE54GOT,Peugeot Partner,Van, small,white,207509,none,manual,595.0,2019-04-14,
+VA53HAL,Vauxhall Combo,Van, small,red,117000,none,manual,595.0,2019-04-14,
+OH05HIT,Ford Transit,Van, large,white,50000,none,manual,1000.0,2019-04-14,
+AB19CDE,Jaguar,Coupe, ,Blue,5000,none,automatic,50000.0,2019-04-19,2019-04-19
+FG19HIJ,Ford Focus,Hatchback, ,red,31000,none,manual,5000.0,2019-04-19,
+LM19NOP,Audi A2,Hatchback, ,silver,500,none,manual,15000.0,2019-04-19,
+CF12ABC,Ford Focus,Hatchback, ,blue,100,none,manual,7000.0,2019-05-04,2019-05-04
+PO13DFF,Ford Transit,Van, large,white,2000,none,manual,20000.0,2019-05-04,
+BC12DEF,Audi A3,Hatchback, ,red,3000,none,automatic,12000.0,2019-05-04,
+AS14DAS,Honda CRV,Hatchback, ,blue,1000,none,automatic,17000.0,2019-05-04,

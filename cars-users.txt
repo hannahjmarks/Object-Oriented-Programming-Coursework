@@ -1,0 +1,9 @@
+admin1,YXBwbGU=,admin
+staff1,b3Jhbmdl,staff
+customer1,bGVtb24=,customer
+admin2,YmFuYW5h,admin
+staff2,Z3JhcGU=,staff
+customer2,bGltZQ==,customer
+admin3,a2l3aQ==,admin
+staff3,bWFuZ28=,staff
+customer4,cGFzc3dvcmQ=,customer
